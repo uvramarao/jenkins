@@ -1,2 +1,2 @@
-# jenkinsdemo
+# jenkins
 Jenkins
